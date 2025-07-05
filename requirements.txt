@@ -1,0 +1,8 @@
+streamlit==1.32.0
+pandas==2.2.0
+google-auth==2.27.0
+google-api-python-client==2.116.0
+plotly==5.19.0
+xlsxwriter==3.1.9
+requests==2.31.0
+numpy==1.26.3
